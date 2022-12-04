@@ -18,6 +18,4 @@ sudo dpkg -i google-chrome-stable_current_amd64.deb &&
 
 #Install Python
 apt install python &&
-pip install -r piprequirements.txt && 
-
-#Install NoMachine
+pip install -r piprequirements.txt
