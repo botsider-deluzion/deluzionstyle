@@ -1,3 +1,4 @@
+#! /usr/bin/bash
 #### Please run on "Super Domain" ####
 
 # Update Linux Package
